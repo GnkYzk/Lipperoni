@@ -1,4 +1,4 @@
-<h1>Lipperoni</h1>
+<h1 align="center">Lipperoni</h1>
 <p align="center"><i>A lipsync project, made by Leonardo Biason and Günak Yüzak</i></p>
 
 ---
